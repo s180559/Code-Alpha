@@ -1,0 +1,10 @@
+           
+           TEMPERATURE CONVERTER
+
+=>When you enter a temperature in Celsius and click the "Convert" button, 
+  it will convert the temperature to Fahrenheit and display the result on
+  the page.
+=>The code checks if a valid temperature in Celsius is entered, performs 
+  the conversion, and displays the result. 
+=>It also includes basic error handling to show an error message if an 
+  invalid input is provided.

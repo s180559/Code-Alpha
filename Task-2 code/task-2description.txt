@@ -1,0 +1,20 @@
+A URL link shortener is a tool or service that converts long URLs into shorter, more manageable links.
+The primary purpose of a link shortener is to create compact URLs that are easier to share, remember,
+and type.
+
+Here's how a typical URL link shortener works:
+
+=>User Input: The user provides a long URL that they want to shorten. This can be any valid URL, such 
+             as a webpage, blog post, or document link.
+
+=>Shortening Algorithm: The link shortener applies an algorithm to generate a unique and shorter alias
+              for the given long URL. This algorithm typically involves encoding the original URL and 
+              generating a random or sequential identifier.
+
+=> Storage: The short URL, along with its associated long URL, is stored in a database or some form of
+          data storage. This allows the link shortener to map the short URL back to the original long 
+          URL.
+
+=> Redirect: When a user clicks on the shortened link, the link shortener server receives the request 
+          for the short URL. It looks up the associated long URL in its storage based on the provided 
+          short URL and performs a redirect to the original long URL.
